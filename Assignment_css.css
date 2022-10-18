@@ -1,0 +1,87 @@
+
+.icon {
+   font-size: 20px;
+   display: flex;
+   justify-content: space-between;
+}
+.alert{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.shop_link{
+	text-decoration: none;
+	color: rgb(206,97,74);
+}
+.hero{
+	color: rgb(214,83,80);
+}
+.btn1{
+	color: white;
+	border: 1px solid white;
+}
+.hero_head{
+	text-align: center;
+}
+.sports-item{
+	display: flex;
+	justify-content: space-between;
+}
+.sports_link{
+	text-decoration: none;
+	color: black;
+}
+.btn2{
+	float: right;
+}
+.sports_cate{
+	display: flex;
+	justify-content: space-between;
+}
+.about_speak{
+	display: flex;
+	justify-content: space-between;
+}
+.about_link{
+	text-decoration: none;
+	color: black;
+}
+.about_link:hover{
+	color: black;
+	cursor: auto;
+}
+#about{
+	background: linear-gradient(to bottom right,#FFE7F6,#FFF2FE);
+}
+.about_img{
+	border-radius: 50px;
+}
+.act_list{
+	display: flex;
+	justify-content: space-around;
+}
+.act_img{
+	border-radius: 50px;
+}
+.checked{
+	color: orange;
+}
+.looks_list{
+	display: flex;
+	justify-content: space-between;
+}
+.looks_list2{
+	display: flex;
+	justify-content: center;
+}
+.foot_text{
+	color: white;
+}
+.foot_icon{
+	font-size: 30px;
+	color: white;
+
+}
+b{
+	color: white;
+}
